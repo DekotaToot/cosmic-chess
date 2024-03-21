@@ -8,6 +8,7 @@ export default function Setting() {
 		<>
 			<OrbitControls 
 				makeDefault
+				enablePan={false}
 				minDistance={.45}
 				maxDistance={.6}
 				maxPolarAngle={1.3}
