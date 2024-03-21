@@ -17,6 +17,7 @@ export default defineConfig({
 			},
 			manifest: {
 				name: 'Cosmic Chess',
+				short_name: 'Cosmic Chess',
 				"icons": [
 				  {
 					"src": "windows11/SmallTile.scale-100.png",
