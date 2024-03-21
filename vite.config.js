@@ -16,6 +16,7 @@ export default defineConfig({
 				maximumFileSizeToCacheInBytes: 4000000
 			},
 			manifest: {
+				name: 'Cosmic Chess',
 				"icons": [
 				  {
 					"src": "windows11/SmallTile.scale-100.png",
