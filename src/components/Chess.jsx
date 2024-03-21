@@ -3,7 +3,7 @@ import Piece from './Piece.jsx'
 import { RigidBody } from '@react-three/rapier'
 
 export function Chess(props) {
-	const { nodes, materials } = useGLTF('/chess-model/chess_set_1k.gltf')
+	const { nodes, materials } = useGLTF('/cosmic-chess/chess-model/chess_set_1k.gltf')
 
 
 
